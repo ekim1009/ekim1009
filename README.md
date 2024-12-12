@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Esther!
 
-I'm a full stack Software Engineer based in New York, NY. I have experience in Javascript, TypeScript, Python, Ruby, PostgreSQL, and React.  
+I'm a full stack Software Engineer based in New York, NY.  
 
 
 ## 🌵 Tumbleweed
