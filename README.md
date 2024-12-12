@@ -11,7 +11,7 @@ You can read about the case study [here](https://tumbleweed-cdc.github.io/docs/i
 
 ### 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/esther-kim-189787b0/)
+[LinkedIn](https://www.linkedin.com/in/esther-kim-189787b0/)\
 [Gmail](ekim1009@gmail.com)
 
 ### ⚡️Fun fact about myself
