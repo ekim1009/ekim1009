@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm Esther!
 
+I'm a full stack Software Engineer based in New York, NY. I have experience in Javascript, TypeScript, Python, Ruby, PostgreSQL, and React.  
+
+
+### 🌵 Tumbleweed
+Most recently, I developed Tumbleweed, which is an open-source framework designed for fast and consistent data propogation between microservices using Change Data Capture (CDC) and the transactional outbox pattern.  Tumbleweed automatically deploys a self-hosted log-based CDC pipeline that monitors changes in one or more PostgreSQL databases and sends those data changes to consumer microservices in near-real time.
 <!--
 **ekim1009/ekim1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
